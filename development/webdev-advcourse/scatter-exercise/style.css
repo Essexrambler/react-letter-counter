@@ -1,0 +1,10 @@
+svg {
+  margin: auto 0;
+  display: block;
+  position: absolute;
+}
+
+.tick line {
+  stroke: #ccc;
+  stroke-dasharray: 10,5;
+}

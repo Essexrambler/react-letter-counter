@@ -69,7 +69,7 @@ svg.append("text")
     .attr("x", width / 2)
     .attr("dy", "1em")
     .style("text-anchor", "middle")
-    .style("font-size", "2em")
+    .style("font-size", "1.5em")
     .text("Cellular Subscriptions vs. Literacy Rate");
 
 function mustHaveKeys(obj) {
